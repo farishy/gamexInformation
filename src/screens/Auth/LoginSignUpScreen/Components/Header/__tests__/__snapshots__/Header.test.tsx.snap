@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`header render 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "white",
+      "borderBottomColor": "#398FCE",
+      "borderBottomLeftRadius": 50,
+      "borderBottomRightRadius": 50,
+      "borderColor": "#FFFFFF",
+      "borderWidth": 3,
+      "elevation": 25,
+      "height": 90,
+      "shadowColor": "#398FCE",
+      "shadowOffset": Object {
+        "height": 7,
+        "width": 0,
+      },
+      "shadowOpacity": 0.43,
+      "shadowRadius": 9.51,
+      "width": "100%",
+    }
+  }
+>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../src/assets/images/logo_header.png",
+      }
+    }
+    style={
+      Object {
+        "marginTop": -20,
+      }
+    }
+  />
+</View>
+`;
